@@ -3,6 +3,8 @@
 ![Badge Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## Descrição
 
@@ -34,8 +36,8 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/via-cep-android.git
-    cd via-cep-android
+    git clone https://github.com/seu-usuario/AppFilmes.git
+    cd AppFilmes
     ```
 
 2. Abra o projeto no Android Studio:
@@ -51,9 +53,11 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
 ## Uso
 
 1. Abra o aplicativo no seu dispositivo Android.
-2. Digite um CEP válido no campo de texto.
-3. Clique em "Buscar".
-4. O endereço correspondente ao CEP será exibido na tela.
+2. Navegue entre os filmes listados e realize a interação.
+3. Clique no filme desejado.
+4. Verifique das informações relacionadas ao filme
+5. Clique em "play" para visualizar o trailer do filme selecionado
+6. Retorne para a página principal para visualizar novamente o catálogo de filmes
 
 ## Arquitetura
 
